@@ -39,3 +39,8 @@
 
 # debug information files
 *.dwo
+*.mov
+*.DS_Store
+cmake-build-debug/
+.idea/
+
